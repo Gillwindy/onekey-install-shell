@@ -16,7 +16,7 @@ frp 是一个高性能的反向代理应用，可以帮助您轻松地进行内�
 Server
 ------
 
-### Install
+### Install (Updated frps to 0.31.1)
 
 ```Bash
 wget --no-check-certificate https://raw.githubusercontent.com/Gillwindy/onekey-install-shell/master/frps/install-frps.sh -O ./install-frps.sh
